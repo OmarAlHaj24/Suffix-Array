@@ -1,0 +1,3 @@
+D:/GitHubRepos/Suffix-Array/cmake-build-debug/CMakeFiles/Suffix_Array.dir
+D:/GitHubRepos/Suffix-Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHubRepos/Suffix-Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
